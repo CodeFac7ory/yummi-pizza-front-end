@@ -4,7 +4,7 @@ Web application provides pizza menu and possibility to add or remove pizzas to s
 
 Users can register, as well. Address is mandatory so he doesn't need to enter adress each time he wants to checkout shopping cart. Registered and authenticated users have access to shopping history. Prices are available in two currencies, Euros and Dollars and the currency exchange rate is pulled from https://api.exchangeratesapi.io.
 
-- Front end: React/Bootstrap
+- Front end: React/Bootstrap, functional components, hooks
 - Back end: Laravel
 - Database: MySQL
 - Git flow followed
